@@ -1,6 +1,7 @@
 from PIL import Image, ExifTags
 
 # Path ke gambar
+# hai man
 imagename = "img/RGB.jpg"
 
 # Membaca data gambar menggunakan PIL
